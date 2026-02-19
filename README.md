@@ -20,39 +20,10 @@ Fun fact: I survive on ☕ + coding jams 🎶
 
 ---
 
-## 🚀 Projects I’m Proud Of
-- [🔥 Portfolio Website](https://github.com/phornnato/portfolio) – My personal showcase  
-- [🌦 Weather App](https://github.com/phornnato/weather-app) – Real-time weather info  
-- [🎮 Game Project](https://github.com/phornnato/game) – Fun coding experiments  
-- [📱 React Native App](https://github.com/phornnato/react-native-app) – Mobile experiments  
-
----
-
-## 🌱 Currently
-- Learning Rust ⚡  
-- Building a React Native app 📱  
-- Experimenting with AI projects 🤖  
-
----
-
-## ✨ Fun Vibes
-- 🎵 Music I vibe to: Lo-fi, EDM, Chillhop  
-- 🎮 Favorite Games: Valorant, Minecraft, Zelda  
-- 🌎 Dream: Build apps that actually help people  
-
----
-
 # 📊 GitHub Mood
 ![](https://github-readme-stats.vercel.app/api?username=phornnato&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=phornnato&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phornnato&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-# 🏆 Flex Zone
-![](https://github-profile-trophy.vercel.app/?username=phornnato&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 
 # 🔝 Top Contributed Repo
